@@ -11,7 +11,7 @@ import UIKit
 class DetailViewController: UIViewController {
 
     @IBOutlet weak var detailmageView: UIImageView!
-
+//Last addition made
 
     var detailItem: AnyObject? {
         didSet {
